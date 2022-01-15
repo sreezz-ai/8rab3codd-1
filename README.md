@@ -74,9 +74,9 @@ Click WA logo to join our official group 👇
 
 ### Simple Method
 
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/alphadev@2021/WhatsAsena-QR)
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@sreezzai/Alpha-Qr?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chiruthey/8rab3codd-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sreezz-ai/8rab3codd-1)
 
 ##
 
