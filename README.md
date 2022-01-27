@@ -76,7 +76,7 @@ Click WA logo to join our official group 👇
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@sreezzai/Alpha-Qr?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sreezz-ai/8rab3codd-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sreezz-ai/Alpha--2)
 
 ##
 
